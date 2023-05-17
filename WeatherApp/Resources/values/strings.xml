@@ -1,0 +1,7 @@
+﻿<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="pronostico">Pronositco</string>
+    <string name="forecast_image">Forecast image</string>
+</resources>
+
